@@ -1,0 +1,8 @@
+{
+  "name": "sql-injection-detector",
+  "version": "0.1.0",
+  "description": "Comprehensive SQL injection vulnerability detection with pattern matching, context analysis, and exploit verification.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

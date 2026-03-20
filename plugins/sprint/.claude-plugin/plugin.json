@@ -1,0 +1,8 @@
+{
+  "name": "sprint",
+  "version": "0.1.0",
+  "description": "> Autonomous multi-agent development plugin for Claude Code. Spec-driven, iterative sprints with specialized agents.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

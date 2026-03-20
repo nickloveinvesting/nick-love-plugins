@@ -1,0 +1,8 @@
+{
+  "name": "vibe-guide",
+  "version": "0.1.0",
+  "description": "Non-technical progress summaries for Claude Code work. Hides diffs, logs, and technical noise so you can pair program with AI without being overwhelmed by implementation details.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

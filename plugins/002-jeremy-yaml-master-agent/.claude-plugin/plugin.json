@@ -1,0 +1,8 @@
+{
+  "name": "002-jeremy-yaml-master-agent",
+  "version": "0.1.0",
+  "description": "Intelligent YAML validation, generation, and transformation with schema inference and format conversion.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

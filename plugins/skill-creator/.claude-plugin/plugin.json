@@ -1,0 +1,8 @@
+{
+  "name": "skill-creator",
+  "version": "0.1.0",
+  "description": "Create and validate production-grade agent skills aligned with the 2026 AgentSkills.io spec and Anthropic best practices. Includes a 100-point marketplace grading rubric.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

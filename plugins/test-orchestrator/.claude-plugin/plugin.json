@@ -1,0 +1,8 @@
+{
+  "name": "test-orchestrator",
+  "version": "0.1.0",
+  "description": "Orchestrate complex test workflows with dependencies, parallel execution, and smart test selection.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

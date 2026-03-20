@@ -1,0 +1,8 @@
+{
+  "name": "roi-calculator",
+  "version": "0.1.0",
+  "description": "Calculate and present ROI for AI automation projects.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

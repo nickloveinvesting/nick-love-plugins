@@ -1,0 +1,8 @@
+{
+  "name": "auto-scaling-configurator",
+  "version": "0.1.0",
+  "description": "Configure auto-scaling policies for applications and infrastructure",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "graphql-server-builder",
+  "version": "0.1.0",
+  "description": "Build production-ready GraphQL servers with schema-first design, resolvers, subscriptions, and best practices.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

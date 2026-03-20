@@ -1,0 +1,8 @@
+{
+  "name": "database-documentation-gen",
+  "version": "0.1.0",
+  "description": "Database plugin for database-documentation-gen",
+  "author": {
+    "name": "Nick Love"
+  }
+}

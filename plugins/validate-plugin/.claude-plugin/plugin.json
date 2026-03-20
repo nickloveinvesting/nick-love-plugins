@@ -1,0 +1,8 @@
+{
+  "name": "validate-plugin",
+  "version": "0.1.0",
+  "description": "Validates full Claude Code plugin directory structure against the official Anthropic spec and Intent Solutions enterprise standard.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

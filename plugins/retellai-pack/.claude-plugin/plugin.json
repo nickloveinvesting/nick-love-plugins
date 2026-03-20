@@ -1,0 +1,8 @@
+{
+  "name": "retellai-pack",
+  "version": "0.1.0",
+  "description": "> Claude Code skill pack for Retell AI integration (30 skills)",
+  "author": {
+    "name": "Nick Love"
+  }
+}

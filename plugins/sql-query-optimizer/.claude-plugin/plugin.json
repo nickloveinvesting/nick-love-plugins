@@ -1,0 +1,8 @@
+{
+  "name": "sql-query-optimizer",
+  "version": "0.1.0",
+  "description": "Analyze and optimize SQL queries for better performance with index suggestions and query rewrites.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "data-validation-engine",
+  "version": "0.1.0",
+  "description": "Database plugin for data-validation-engine",
+  "author": {
+    "name": "Nick Love"
+  }
+}

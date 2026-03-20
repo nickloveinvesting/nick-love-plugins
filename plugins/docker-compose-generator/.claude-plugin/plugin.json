@@ -1,0 +1,8 @@
+{
+  "name": "docker-compose-generator",
+  "version": "0.1.0",
+  "description": "Generate production-ready Docker Compose configurations.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

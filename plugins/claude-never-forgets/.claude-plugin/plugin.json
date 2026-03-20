@@ -1,0 +1,8 @@
+{
+  "name": "claude-never-forgets",
+  "version": "0.1.0",
+  "description": "A Claude Code plugin that provides persistent memory across sessions and context windows.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

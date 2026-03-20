@@ -1,0 +1,8 @@
+{
+  "name": "n8n-workflow-designer",
+  "version": "0.1.0",
+  "description": "Design complex n8n workflows with AI assistance - the most powerful open-source automation platform.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

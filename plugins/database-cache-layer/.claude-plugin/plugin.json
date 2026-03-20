@@ -1,0 +1,8 @@
+{
+  "name": "database-cache-layer",
+  "version": "0.1.0",
+  "description": "Database plugin for database-cache-layer",
+  "author": {
+    "name": "Nick Love"
+  }
+}

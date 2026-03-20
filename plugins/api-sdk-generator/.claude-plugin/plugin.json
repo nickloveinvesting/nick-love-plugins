@@ -1,0 +1,8 @@
+{
+  "name": "api-sdk-generator",
+  "version": "0.1.0",
+  "description": "Generate type-safe client SDKs from OpenAPI specs for multiple languages.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

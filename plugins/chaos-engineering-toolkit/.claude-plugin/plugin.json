@@ -1,0 +1,8 @@
+{
+  "name": "chaos-engineering-toolkit",
+  "version": "0.1.0",
+  "description": "Chaos testing for resilience with failure injection, latency simulation, and system resilience validation.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

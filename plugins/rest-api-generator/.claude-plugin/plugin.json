@@ -1,0 +1,8 @@
+{
+  "name": "rest-api-generator",
+  "version": "0.1.0",
+  "description": "Generate production-ready RESTful APIs from schema definitions with proper routing, validation, error handling, and documentation.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

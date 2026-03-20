@@ -1,0 +1,8 @@
+{
+  "name": "mobile-app-tester",
+  "version": "0.1.0",
+  "description": "Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

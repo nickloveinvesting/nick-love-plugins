@@ -1,0 +1,8 @@
+{
+  "name": "excel-analyst-pro",
+  "version": "0.1.0",
+  "description": "Professional financial modeling toolkit for Claude Code with auto-invoked Skills and Excel MCP integration.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

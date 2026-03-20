@@ -1,0 +1,8 @@
+{
+  "name": "ollama-local-ai",
+  "version": "0.1.0",
+  "description": "Free, self-hosted alternative to OpenAI, Anthropic, and paid LLM APIs",
+  "author": {
+    "name": "Nick Love"
+  }
+}

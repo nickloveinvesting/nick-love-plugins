@@ -1,0 +1,8 @@
+{
+  "name": "claude-reflect",
+  "version": "0.1.0",
+  "description": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences \u2014 then syncs them to CLAUDE.md and AGENTS.md.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "database-transaction-monitor",
+  "version": "0.1.0",
+  "description": "Database plugin for database-transaction-monitor",
+  "author": {
+    "name": "Nick Love"
+  }
+}

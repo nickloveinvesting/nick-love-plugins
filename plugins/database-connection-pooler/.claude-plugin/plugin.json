@@ -1,0 +1,8 @@
+{
+  "name": "database-connection-pooler",
+  "version": "0.1.0",
+  "description": "Implement and optimize database connection pooling for improved performance.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

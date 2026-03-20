@@ -1,0 +1,8 @@
+{
+  "name": "api-documentation-generator",
+  "version": "0.1.0",
+  "description": "Generate comprehensive OpenAPI/Swagger documentation with interactive UIs and export to multiple formats.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

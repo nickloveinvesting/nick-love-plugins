@@ -1,0 +1,8 @@
+{
+  "name": "database-query-profiler",
+  "version": "0.1.0",
+  "description": "Profile and optimize database queries for maximum performance.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "executive-assistant-skills",
+  "version": "0.1.0",
+  "description": "AI-powered executive assistant skills for Claude Code that fully replace a human EA. These skills were born from a real experiment by Martin Gontovnikas (@mgonto), Auth0's former VP of Marketing/Growt",
+  "author": {
+    "name": "Nick Love"
+  }
+}

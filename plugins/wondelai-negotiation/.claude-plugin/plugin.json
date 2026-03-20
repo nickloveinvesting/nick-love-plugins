@@ -1,0 +1,8 @@
+{
+  "name": "wondelai-negotiation",
+  "version": "0.1.0",
+  "description": "Tactical negotiation framework based on Chris Voss's techniques",
+  "author": {
+    "name": "Nick Love"
+  }
+}

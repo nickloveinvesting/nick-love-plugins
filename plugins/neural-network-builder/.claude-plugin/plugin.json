@@ -1,0 +1,8 @@
+{
+  "name": "neural-network-builder",
+  "version": "0.1.0",
+  "description": "Build and configure neural network architectures",
+  "author": {
+    "name": "Nick Love"
+  }
+}

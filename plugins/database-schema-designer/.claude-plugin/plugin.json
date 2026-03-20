@@ -1,0 +1,8 @@
+{
+  "name": "database-schema-designer",
+  "version": "0.1.0",
+  "description": "Design and visualize database schemas with normalization guidance and ERD generation.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

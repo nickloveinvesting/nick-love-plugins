@@ -1,0 +1,8 @@
+{
+  "name": "deployment-pipeline-orchestrator",
+  "version": "0.1.0",
+  "description": "Orchestrate complex multi-stage deployment pipelines",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "flash-loan-simulator",
+  "version": "0.1.0",
+  "description": "Simulate and analyze flash loan strategies including arbitrage, liquidations, and collateral swaps across major DeFi protocols.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -5,64 +5,955 @@
     "email": "nickloveacquisition@gmail.com"
   },
   "metadata": {
-    "description": "Nick Love's personal plugin marketplace — 33 skills across 6 plugins for content creation, design, documents, web dev, automation, and skill management.",
-    "version": "0.1.0",
+    "description": "Nick Love's personal plugin marketplace \u2014 105 plugins for content, design, documents, web dev, automation, AI/ML, and more.",
+    "version": "0.2.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
     {
-      "name": "content-creation",
-      "source": "./plugins/content-creation",
-      "description": "Writing, copywriting, email, carousel, and research skills for content creators and marketers.",
+      "name": "002-jeremy-yaml-master-agent",
+      "source": "./plugins/002-jeremy-yaml-master-agent",
+      "description": "Intelligent YAML validation, generation, and transformation with schema inference and format conversion.",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "content",
-      "keywords": ["copywriting", "email", "carousel", "research", "landing-page"]
+      "author": {
+        "name": "Nick Love"
+      }
     },
     {
-      "name": "design-tools",
-      "source": "./plugins/design-tools",
-      "description": "AI image prompting, logo creation, canvas design, algorithmic art, design system, and diagramming tools.",
+      "name": "003-jeremy-vertex-ai-media-master",
+      "source": "./plugins/003-jeremy-vertex-ai-media-master",
+      "description": "Comprehensive Google Vertex AI multimodal mastery for video processing, audio generation, image creation, and marketing automation.",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "design",
-      "keywords": ["ai-image", "logo", "design", "art", "excalidraw", "diagrams"]
+      "author": {
+        "name": "Nick Love"
+      }
     },
     {
-      "name": "document-tools",
-      "source": "./plugins/document-tools",
-      "description": "Create and manipulate Word docs, PDFs, PowerPoint presentations, and Excel spreadsheets.",
+      "name": "004-jeremy-google-cloud-agent-sdk",
+      "source": "./plugins/004-jeremy-google-cloud-agent-sdk",
+      "description": "Comprehensive Google Cloud Agent Development Kit (ADK) and Agent Starter Pack mastery for building production-grade containerized multi-agent systems.",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "productivity",
-      "keywords": ["docx", "pdf", "pptx", "xlsx", "documents", "spreadsheets"]
+      "author": {
+        "name": "Nick Love"
+      }
     },
     {
-      "name": "web-dev",
-      "source": "./plugins/web-dev",
-      "description": "Full-stack frontend development, landing page design and copy, browser automation with Playwright, and UI auditing.",
+      "name": "ai-ml-engineering-pack",
+      "source": "./plugins/ai-ml-engineering-pack",
+      "description": "Professional toolkit for building production-ready AI/ML systems with Claude Code",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "development",
-      "keywords": ["react", "landing-page", "playwright", "frontend", "ui", "web-design"]
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "ai-sdk-agents",
+      "source": "./plugins/ai-sdk-agents",
+      "description": "Multi-agent orchestration with AI SDK v5 - handoffs, routing, and coordination for any AI provider.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "ansible-playbook-creator",
+      "source": "./plugins/ansible-playbook-creator",
+      "description": "Create Ansible playbooks for configuration management",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "api-documentation-generator",
+      "source": "./plugins/api-documentation-generator",
+      "description": "Generate comprehensive OpenAPI/Swagger documentation with interactive UIs and export to multiple formats.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "api-gateway-builder",
+      "source": "./plugins/api-gateway-builder",
+      "description": "Build API gateways with routing, authentication, rate limiting, and microservice integration.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "api-response-validator",
+      "source": "./plugins/api-response-validator",
+      "description": "Validate API responses against JSON Schema, OpenAPI specs, and custom rules.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "api-schema-validator",
+      "source": "./plugins/api-schema-validator",
+      "description": "Validate API schemas with JSON Schema, Joi, Yup, or Zod.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "api-sdk-generator",
+      "source": "./plugins/api-sdk-generator",
+      "description": "Generate type-safe client SDKs from OpenAPI specs for multiple languages.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "apollo-pack",
+      "source": "./plugins/apollo-pack",
+      "description": "> Claude Code skill pack for Apollo.io sales intelligence platform (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "auto-scaling-configurator",
+      "source": "./plugins/auto-scaling-configurator",
+      "description": "Configure auto-scaling policies for applications and infrastructure",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
     },
     {
       "name": "automation-tools",
       "source": "./plugins/automation-tools",
       "description": "Make.com automations, Chrome browser control, Canva design, scheduled tasks, NotebookLM queries, and Facebook Ads.",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "automation",
-      "keywords": ["make", "chrome", "canva", "schedule", "notebooklm", "facebook-ads"]
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "b12-claude-plugin",
+      "source": "./plugins/b12-claude-plugin",
+      "description": "B12 Website Generator is a plugin by B12.io that allows you to create a professional, engaging, and user-friendly website in seconds using AI. Provide a name for your project or business along with a ",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "brand-strategy-framework",
+      "source": "./plugins/brand-strategy-framework",
+      "description": "A systematic 7-part methodology for building brand foundations \u2014 the same process top agencies use with Fortune 500 clients.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "calendar-to-workflow",
+      "source": "./plugins/calendar-to-workflow",
+      "description": "Status: \ud83d\udea7 Under Development (Pro Tier)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "chaos-engineering-toolkit",
+      "source": "./plugins/chaos-engineering-toolkit",
+      "description": "Chaos testing for resilience with failure injection, latency simulation, and system resilience validation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "claude-never-forgets",
+      "source": "./plugins/claude-never-forgets",
+      "description": "A Claude Code plugin that provides persistent memory across sessions and context windows.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "claude-reflect",
+      "source": "./plugins/claude-reflect",
+      "description": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences \u2014 then syncs them to CLAUDE.md and AGENTS.md.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "coderabbit-pack",
+      "source": "./plugins/coderabbit-pack",
+      "description": "> Claude Code skill pack for CodeRabbit integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "content-creation",
+      "source": "./plugins/content-creation",
+      "description": "Writing, copywriting, email, carousel, and research skills for content creators and marketers.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "creator-studio-pack",
+      "source": "./plugins/creator-studio-pack",
+      "description": "The Most Dangerous Skillset: Builder + Filmmaker in One Person",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "data-preprocessing-pipeline",
+      "source": "./plugins/data-preprocessing-pipeline",
+      "description": "Automated data preprocessing and cleaning pipelines",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "data-validation-engine",
+      "source": "./plugins/data-validation-engine",
+      "description": "Database plugin for data-validation-engine",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-cache-layer",
+      "source": "./plugins/database-cache-layer",
+      "description": "Database plugin for database-cache-layer",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-connection-pooler",
+      "source": "./plugins/database-connection-pooler",
+      "description": "Implement and optimize database connection pooling for improved performance.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-diff-tool",
+      "source": "./plugins/database-diff-tool",
+      "description": "Database plugin for database-diff-tool",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-documentation-gen",
+      "source": "./plugins/database-documentation-gen",
+      "description": "Database plugin for database-documentation-gen",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-index-advisor",
+      "source": "./plugins/database-index-advisor",
+      "description": "Analyze query patterns and recommend optimal database indexes with impact analysis",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-migration-manager",
+      "source": "./plugins/database-migration-manager",
+      "description": "Manage database migrations with version control, rollback capabilities, and automated schema evolution tracking.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-query-profiler",
+      "source": "./plugins/database-query-profiler",
+      "description": "Profile and optimize database queries for maximum performance.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-schema-designer",
+      "source": "./plugins/database-schema-designer",
+      "description": "Design and visualize database schemas with normalization guidance and ERD generation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "database-transaction-monitor",
+      "source": "./plugins/database-transaction-monitor",
+      "description": "Database plugin for database-transaction-monitor",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "databricks-pack",
+      "source": "./plugins/databricks-pack",
+      "description": "> Claude Code skill pack for Databricks integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "deep-learning-optimizer",
+      "source": "./plugins/deep-learning-optimizer",
+      "description": "Deep learning optimization techniques",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "dependency-checker",
+      "source": "./plugins/dependency-checker",
+      "description": "Check dependencies for known vulnerabilities, outdated packages, and license compliance across multiple package managers.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "deployment-pipeline-orchestrator",
+      "source": "./plugins/deployment-pipeline-orchestrator",
+      "description": "Orchestrate complex multi-stage deployment pipelines",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "design-tools",
+      "source": "./plugins/design-tools",
+      "description": "AI image prompting, logo creation, canvas design, algorithmic art, design system, and diagramming tools.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "docker-compose-generator",
+      "source": "./plugins/docker-compose-generator",
+      "description": "Generate production-ready Docker Compose configurations.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "document-tools",
+      "source": "./plugins/document-tools",
+      "description": "Create and manipulate Word docs, PDFs, PowerPoint presentations, and Excel spreadsheets.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "excel-analyst-pro",
+      "source": "./plugins/excel-analyst-pro",
+      "description": "Professional financial modeling toolkit for Claude Code with auto-invoked Skills and Excel MCP integration.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "executive-assistant-skills",
+      "source": "./plugins/executive-assistant-skills",
+      "description": "AI-powered executive assistant skills for Claude Code that fully replace a human EA. These skills were born from a real experiment by Martin Gontovnikas (@mgonto), Auth0's former VP of Marketing/Growt",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "feature-engineering-toolkit",
+      "source": "./plugins/feature-engineering-toolkit",
+      "description": "Feature creation, selection, and transformation tools",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "firecrawl-pack",
+      "source": "./plugins/firecrawl-pack",
+      "description": "> Claude Code skill pack for FireCrawl integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "fireflies-pack",
+      "source": "./plugins/fireflies-pack",
+      "description": "> Claude Code skill pack for Fireflies.ai integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "flash-loan-simulator",
+      "source": "./plugins/flash-loan-simulator",
+      "description": "Simulate and analyze flash loan strategies including arbitrage, liquidations, and collateral swaps across major DeFi protocols.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "fullstack-starter-pack",
+      "source": "./plugins/fullstack-starter-pack",
+      "description": "Complete documentation for the Fullstack Starter Pack plugin collection for Claude Code.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "gamma-pack",
+      "source": "./plugins/gamma-pack",
+      "description": "> Claude Code skill pack for Gamma integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "graphql-server-builder",
+      "source": "./plugins/graphql-server-builder",
+      "description": "Build production-ready GraphQL servers with schema-first design, resolvers, subscriptions, and best practices.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "groq-pack",
+      "source": "./plugins/groq-pack",
+      "description": "> Claude Code skill pack for Groq integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "jeremy-adk-orchestrator",
+      "source": "./plugins/jeremy-adk-orchestrator",
+      "description": "\ud83c\udfaf VERTEX AI AGENT ENGINE + ADK DEPLOYMENT ONLY",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "jeremy-adk-software-engineer",
+      "source": "./plugins/jeremy-adk-software-engineer",
+      "description": "ADK software engineer for creating production-ready agents.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "jeremy-github-actions-gcp",
+      "source": "./plugins/jeremy-github-actions-gcp",
+      "description": "GitHub Actions expert for Google Cloud and Vertex AI deployments with Workload Identity Federation (WIF), comprehensive security validation, and deployment best practices enforcement.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
     },
     {
       "name": "meta-skills",
       "source": "./plugins/meta-skills",
       "description": "Tools for building, discovering, and managing Claude skills and plugins. Includes recursive problem solving.",
       "version": "0.1.0",
-      "author": { "name": "Nick Love" },
-      "category": "meta",
-      "keywords": ["skill-builder", "plugin-management", "problem-solving", "discovery"]
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "mistral-pack",
+      "source": "./plugins/mistral-pack",
+      "description": "> Claude Code skill pack for Mistral AI integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "mobile-app-tester",
+      "source": "./plugins/mobile-app-tester",
+      "description": "Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "n8n-workflow-designer",
+      "source": "./plugins/n8n-workflow-designer",
+      "description": "Design complex n8n workflows with AI assistance - the most powerful open-source automation platform.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "neural-network-builder",
+      "source": "./plugins/neural-network-builder",
+      "description": "Build and configure neural network architectures",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "neurodivergent-visual-org",
+      "source": "./plugins/neurodivergent-visual-org",
+      "description": "created: 2025-11-02T22:59",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "obsidian-pack",
+      "source": "./plugins/obsidian-pack",
+      "description": "> Claude Code skill pack for Obsidian plugin development and vault management (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "ollama-local-ai",
+      "source": "./plugins/ollama-local-ai",
+      "description": "Free, self-hosted alternative to OpenAI, Anthropic, and paid LLM APIs",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "openrouter-pack",
+      "source": "./plugins/openrouter-pack",
+      "description": "> Flagship+ tier: 30 comprehensive skills for OpenRouter LLM gateway mastery",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "orm-code-generator",
+      "source": "./plugins/orm-code-generator",
+      "description": "Generate ORM models from database schemas or create database schemas from models.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "overnight-dev",
+      "source": "./plugins/overnight-dev",
+      "description": "Go to bed. Wake up to fully tested features.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "performance-optimization-advisor",
+      "source": "./plugins/performance-optimization-advisor",
+      "description": "Get comprehensive, prioritized performance optimization recommendations.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "perplexity-pack",
+      "source": "./plugins/perplexity-pack",
+      "description": "> Claude Code skill pack for Perplexity integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "posthog-pack",
+      "source": "./plugins/posthog-pack",
+      "description": "> Claude Code skill pack for PostHog integration (24 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "replit-pack",
+      "source": "./plugins/replit-pack",
+      "description": "> Claude Code skill pack for Replit integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "research-to-deploy",
+      "source": "./plugins/research-to-deploy",
+      "description": "Status: \ud83d\udea7 Under Development (Enterprise Tier)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "rest-api-generator",
+      "source": "./plugins/rest-api-generator",
+      "description": "Generate production-ready RESTful APIs from schema definitions with proper routing, validation, error handling, and documentation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "retellai-pack",
+      "source": "./plugins/retellai-pack",
+      "description": "> Claude Code skill pack for Retell AI integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "roi-calculator",
+      "source": "./plugins/roi-calculator",
+      "description": "Calculate and present ROI for AI automation projects.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "security-agent",
+      "source": "./plugins/security-agent",
+      "description": "A specialized security review subagent for identifying vulnerabilities and providing security guidance.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "skill-creator",
+      "source": "./plugins/skill-creator",
+      "description": "Create and validate production-grade agent skills aligned with the 2026 AgentSkills.io spec and Anthropic best practices. Includes a 100-point marketplace grading rubric.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "sprint",
+      "source": "./plugins/sprint",
+      "description": "> Autonomous multi-agent development plugin for Claude Code. Spec-driven, iterative sprints with specialized agents.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "sql-injection-detector",
+      "source": "./plugins/sql-injection-detector",
+      "description": "Comprehensive SQL injection vulnerability detection with pattern matching, context analysis, and exploit verification.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "sql-query-optimizer",
+      "source": "./plugins/sql-query-optimizer",
+      "description": "Analyze and optimize SQL queries for better performance with index suggestions and query rewrites.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "supabase-pack",
+      "source": "./plugins/supabase-pack",
+      "description": "> Claude Code skill pack for Supabase integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "test-data-generator",
+      "source": "./plugins/test-data-generator",
+      "description": "Generate realistic test data including users, products, orders, and custom schemas for comprehensive testing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "test-orchestrator",
+      "source": "./plugins/test-orchestrator",
+      "description": "Orchestrate complex test workflows with dependencies, parallel execution, and smart test selection.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "throughput-analyzer",
+      "source": "./plugins/throughput-analyzer",
+      "description": "Analyze and optimize system throughput for maximum capacity.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "time-series-forecaster",
+      "source": "./plugins/time-series-forecaster",
+      "description": "Time series forecasting and analysis",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "trading-strategy-backtester",
+      "source": "./plugins/trading-strategy-backtester",
+      "description": "Comprehensive backtesting framework for trading strategies with historical data analysis, performance metrics, and parameter optimization.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "transfer-learning-adapter",
+      "source": "./plugins/transfer-learning-adapter",
+      "description": "Transfer learning adaptation",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "validate-plugin",
+      "source": "./plugins/validate-plugin",
+      "description": "Validates full Claude Code plugin directory structure against the official Anthropic spec and Intent Solutions enterprise standard.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "vercel-pack",
+      "source": "./plugins/vercel-pack",
+      "description": "> Claude Code skill pack for Vercel integration (30 skills)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "vibe-guide",
+      "source": "./plugins/vibe-guide",
+      "description": "Non-technical progress summaries for Claude Code work. Hides diffs, logs, and technical noise so you can pair program with AI without being overwhelmed by implementation details.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "web-dev",
+      "source": "./plugins/web-dev",
+      "description": "Full-stack frontend development, landing page design and copy, browser automation with Playwright, and UI auditing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "webhook-handler-creator",
+      "source": "./plugins/webhook-handler-creator",
+      "description": "Create secure webhook endpoints with signature verification, idempotency, and retry logic.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-blue-ocean-strategy",
+      "source": "./plugins/wondelai-blue-ocean-strategy",
+      "description": "Blue Ocean Strategy framework for creating uncontested market space",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-hooked-ux",
+      "source": "./plugins/wondelai-hooked-ux",
+      "description": "Hook Model framework for building habit-forming products",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-hundred-million-offers",
+      "source": "./plugins/wondelai-hundred-million-offers",
+      "description": "Grand Slam Offer creation framework for irresistible pricing",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-influence-psychology",
+      "source": "./plugins/wondelai-influence-psychology",
+      "description": "Persuasion science framework based on Cialdini's six principles",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-jobs-to-be-done",
+      "source": "./plugins/wondelai-jobs-to-be-done",
+      "description": "Strategic product innovation framework using JTBD theory",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-lean-startup",
+      "source": "./plugins/wondelai-lean-startup",
+      "description": "Lean Startup methodology for validated learning and MVPs",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-negotiation",
+      "source": "./plugins/wondelai-negotiation",
+      "description": "Tactical negotiation framework based on Chris Voss's techniques",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-obviously-awesome",
+      "source": "./plugins/wondelai-obviously-awesome",
+      "description": "Product positioning framework for competitive differentiation",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-one-page-marketing",
+      "source": "./plugins/wondelai-one-page-marketing",
+      "description": "End-to-end marketing plan framework in a single page",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-refactoring-ui",
+      "source": "./plugins/wondelai-refactoring-ui",
+      "description": "Practical UI design system for professional interfaces",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-storybrand-messaging",
+      "source": "./plugins/wondelai-storybrand-messaging",
+      "description": "StoryBrand messaging framework that positions customer as hero",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-top-design",
+      "source": "./plugins/wondelai-top-design",
+      "description": "Award-winning web design framework for premium experiences",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-ux-heuristics",
+      "source": "./plugins/wondelai-ux-heuristics",
+      "description": "Usability heuristics and principles for UX audits",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "wondelai-web-typography",
+      "source": "./plugins/wondelai-web-typography",
+      "description": "Web typography framework for readable, beautiful type",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
+    },
+    {
+      "name": "youtube-strategy",
+      "source": "./plugins/youtube-strategy",
+      "description": "Complete YouTube content production workflow powered by AI. Research competitors, generate video ideas, build production briefs, craft optimized titles and thumbnails, and create detailed video outlin",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nick Love"
+      }
     }
   ]
 }

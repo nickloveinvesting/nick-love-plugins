@@ -1,0 +1,8 @@
+{
+  "name": "api-gateway-builder",
+  "version": "0.1.0",
+  "description": "Build API gateways with routing, authentication, rate limiting, and microservice integration.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

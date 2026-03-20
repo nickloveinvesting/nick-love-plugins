@@ -1,0 +1,8 @@
+{
+  "name": "trading-strategy-backtester",
+  "version": "0.1.0",
+  "description": "Comprehensive backtesting framework for trading strategies with historical data analysis, performance metrics, and parameter optimization.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

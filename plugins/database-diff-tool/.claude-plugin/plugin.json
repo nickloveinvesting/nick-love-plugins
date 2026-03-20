@@ -1,0 +1,8 @@
+{
+  "name": "database-diff-tool",
+  "version": "0.1.0",
+  "description": "Database plugin for database-diff-tool",
+  "author": {
+    "name": "Nick Love"
+  }
+}

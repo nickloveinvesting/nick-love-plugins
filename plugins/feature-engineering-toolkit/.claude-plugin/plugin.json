@@ -1,0 +1,8 @@
+{
+  "name": "feature-engineering-toolkit",
+  "version": "0.1.0",
+  "description": "Feature creation, selection, and transformation tools",
+  "author": {
+    "name": "Nick Love"
+  }
+}

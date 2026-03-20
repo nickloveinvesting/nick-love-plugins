@@ -1,0 +1,8 @@
+{
+  "name": "firecrawl-pack",
+  "version": "0.1.0",
+  "description": "> Claude Code skill pack for FireCrawl integration (30 skills)",
+  "author": {
+    "name": "Nick Love"
+  }
+}

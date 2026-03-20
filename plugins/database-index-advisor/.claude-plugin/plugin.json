@@ -1,0 +1,8 @@
+{
+  "name": "database-index-advisor",
+  "version": "0.1.0",
+  "description": "Analyze query patterns and recommend optimal database indexes with impact analysis",
+  "author": {
+    "name": "Nick Love"
+  }
+}

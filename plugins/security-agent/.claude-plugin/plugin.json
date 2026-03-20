@@ -1,0 +1,8 @@
+{
+  "name": "security-agent",
+  "version": "0.1.0",
+  "description": "A specialized security review subagent for identifying vulnerabilities and providing security guidance.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

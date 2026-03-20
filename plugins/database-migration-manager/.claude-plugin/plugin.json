@@ -1,0 +1,8 @@
+{
+  "name": "database-migration-manager",
+  "version": "0.1.0",
+  "description": "Manage database migrations with version control, rollback capabilities, and automated schema evolution tracking.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dependency-checker",
+  "version": "0.1.0",
+  "description": "Check dependencies for known vulnerabilities, outdated packages, and license compliance across multiple package managers.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

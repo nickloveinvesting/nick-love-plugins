@@ -1,0 +1,8 @@
+{
+  "name": "time-series-forecaster",
+  "version": "0.1.0",
+  "description": "Time series forecasting and analysis",
+  "author": {
+    "name": "Nick Love"
+  }
+}

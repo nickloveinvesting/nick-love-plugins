@@ -1,0 +1,8 @@
+{
+  "name": "throughput-analyzer",
+  "version": "0.1.0",
+  "description": "Analyze and optimize system throughput for maximum capacity.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

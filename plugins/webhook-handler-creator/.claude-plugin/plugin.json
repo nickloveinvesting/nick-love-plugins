@@ -1,0 +1,8 @@
+{
+  "name": "webhook-handler-creator",
+  "version": "0.1.0",
+  "description": "Create secure webhook endpoints with signature verification, idempotency, and retry logic.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

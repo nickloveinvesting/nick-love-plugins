@@ -1,0 +1,8 @@
+{
+  "name": "jeremy-github-actions-gcp",
+  "version": "0.1.0",
+  "description": "GitHub Actions expert for Google Cloud and Vertex AI deployments with Workload Identity Federation (WIF), comprehensive security validation, and deployment best practices enforcement.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

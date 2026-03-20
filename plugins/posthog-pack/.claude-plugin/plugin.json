@@ -1,0 +1,8 @@
+{
+  "name": "posthog-pack",
+  "version": "0.1.0",
+  "description": "> Claude Code skill pack for PostHog integration (24 skills)",
+  "author": {
+    "name": "Nick Love"
+  }
+}

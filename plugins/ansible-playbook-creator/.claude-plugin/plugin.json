@@ -1,0 +1,8 @@
+{
+  "name": "ansible-playbook-creator",
+  "version": "0.1.0",
+  "description": "Create Ansible playbooks for configuration management",
+  "author": {
+    "name": "Nick Love"
+  }
+}

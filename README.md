@@ -5,7 +5,7 @@ Nick Love's personal plugin marketplace for Claude Code and Cowork — 33 skills
 ## Add this marketplace
 
 ```
-/plugin marketplace add nickloveacquisition/nick-love-plugins
+/plugin marketplace add nickloveinvesting/nick-love-plugins
 ```
 
 ## Available Plugins

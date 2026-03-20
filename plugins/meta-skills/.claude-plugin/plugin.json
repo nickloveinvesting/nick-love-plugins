@@ -1,0 +1,8 @@
+{
+  "name": "meta-skills",
+  "version": "0.1.0",
+  "description": "Tools for building, discovering, and managing Claude skills and plugins. Includes recursive problem solving.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

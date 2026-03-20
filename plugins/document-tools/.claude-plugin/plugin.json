@@ -1,0 +1,8 @@
+{
+  "name": "document-tools",
+  "version": "0.1.0",
+  "description": "Create and manipulate Word docs, PDFs, PowerPoint presentations, and Excel spreadsheets.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

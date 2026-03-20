@@ -1,0 +1,8 @@
+{
+  "name": "automation-tools",
+  "version": "0.1.0",
+  "description": "Make.com automations, Chrome browser control, Canva design, scheduled tasks, NotebookLM queries, and Facebook Ads.",
+  "author": {
+    "name": "Nick Love"
+  }
+}

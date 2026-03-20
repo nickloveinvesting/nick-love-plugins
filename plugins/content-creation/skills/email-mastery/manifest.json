@@ -1,0 +1,115 @@
+{
+  "name": "email-mastery",
+  "displayName": "Email Mastery",
+  "version": "2.0.0",
+  "description": "Comprehensive unified email mastery skill synthesizing copywriting frameworks, subject line optimization, HTML email design, sequence architecture, newsletters, personalization, conversion psychology, and anti-slop design guardrails. Master cold outreach, sales sequences, welcome flows, trial conversion, retention, and marketing automation.",
+  "author": "Anthropic",
+  "icon": "📧",
+  "category": "marketing",
+  "tags": [
+    "email",
+    "copywriting",
+    "marketing",
+    "automation",
+    "sales",
+    "sequences",
+    "html",
+    "design",
+    "cold-outreach",
+    "conversions",
+    "newsletters",
+    "real-estate"
+  ],
+  "keywords": [
+    "email marketing",
+    "cold email",
+    "sales sequence",
+    "email copy",
+    "email design",
+    "HTML email",
+    "newsletter",
+    "welcome email",
+    "conversion optimization",
+    "email automation",
+    "subject lines",
+    "email sequences",
+    "personalization",
+    "copywriting frameworks",
+    "PAS",
+    "AIDA",
+    "StoryBrand",
+    "direct response"
+  ],
+  "triggers": [
+    "write an email",
+    "create email sequence",
+    "design html email",
+    "email copy",
+    "cold email",
+    "sales sequence",
+    "welcome email",
+    "email marketing",
+    "email subject line",
+    "email template",
+    "newsletter",
+    "email campaign",
+    "email automation",
+    "email funnel",
+    "email design",
+    "email subject",
+    "outreach email"
+  ],
+  "context": {
+    "useCase": "Email marketing, cold outreach, sales automation, newsletter design, trial conversion, customer retention",
+    "expertise": [
+      "Copywriting frameworks (PAS, AIDA, StoryBrand, Direct Response)",
+      "Subject line psychology and A/B testing",
+      "Email sequence architecture (7-14 email campaigns)",
+      "HTML email design (table-based, cross-client compatible)",
+      "Gary Provost rhythm principles (authentic writing)",
+      "Anti-AI guardrails (human-sounding copy)",
+      "Personalization and signal hunting",
+      "Conversion psychology",
+      "Newsletter formats",
+      "Real estate, fix-and-flip, private lending, coaching programs",
+      "GoHighLevel integration"
+    ],
+    "domains": [
+      "email marketing",
+      "copywriting",
+      "marketing automation",
+      "sales",
+      "conversion optimization",
+      "real estate marketing"
+    ]
+  },
+  "fileStructure": {
+    "SKILL.md": "Main comprehensive skill guide (4000+ lines)",
+    "README.md": "Getting started guide",
+    "references/": {
+      "copywriting-frameworks.md": "PAS, AIDA, StoryBrand, Direct Response templates",
+      "html-email-patterns.md": "Table-based layouts, MSO conditionals, CSS patterns"
+    },
+    "examples/": {
+      "cold-email-sequences/": "7+ email cold outreach campaigns",
+      "newsletters/": "Newsletter format examples",
+      "sales-follow-ups/": "Trial conversion and sales sequences",
+      "html-templates/": "Production-ready HTML email templates"
+    }
+  },
+  "requirements": {
+    "claudeVersion": "3.0+",
+    "features": ["text generation", "markdown", "html"]
+  },
+  "skillProviders": [
+    "Anthropic",
+    "OneWave AI",
+    "GTM Agents",
+    "Majestic Labs",
+    "Majiayu Claude Skill Registry",
+    "Pawan Gupta",
+    "Salesably",
+    "Davila",
+    "StratArts"
+  ]
+}

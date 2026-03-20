@@ -1,0 +1,68 @@
+{
+  "name": "nick-love-plugins",
+  "owner": {
+    "name": "Nick Love",
+    "email": "nickloveacquisition@gmail.com"
+  },
+  "metadata": {
+    "description": "Nick Love's personal plugin marketplace — 33 skills across 6 plugins for content creation, design, documents, web dev, automation, and skill management.",
+    "version": "0.1.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "content-creation",
+      "source": "./plugins/content-creation",
+      "description": "Writing, copywriting, email, carousel, and research skills for content creators and marketers.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "content",
+      "keywords": ["copywriting", "email", "carousel", "research", "landing-page"]
+    },
+    {
+      "name": "design-tools",
+      "source": "./plugins/design-tools",
+      "description": "AI image prompting, logo creation, canvas design, algorithmic art, design system, and diagramming tools.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "design",
+      "keywords": ["ai-image", "logo", "design", "art", "excalidraw", "diagrams"]
+    },
+    {
+      "name": "document-tools",
+      "source": "./plugins/document-tools",
+      "description": "Create and manipulate Word docs, PDFs, PowerPoint presentations, and Excel spreadsheets.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "productivity",
+      "keywords": ["docx", "pdf", "pptx", "xlsx", "documents", "spreadsheets"]
+    },
+    {
+      "name": "web-dev",
+      "source": "./plugins/web-dev",
+      "description": "Full-stack frontend development, landing page design and copy, browser automation with Playwright, and UI auditing.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "development",
+      "keywords": ["react", "landing-page", "playwright", "frontend", "ui", "web-design"]
+    },
+    {
+      "name": "automation-tools",
+      "source": "./plugins/automation-tools",
+      "description": "Make.com automations, Chrome browser control, Canva design, scheduled tasks, NotebookLM queries, and Facebook Ads.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "automation",
+      "keywords": ["make", "chrome", "canva", "schedule", "notebooklm", "facebook-ads"]
+    },
+    {
+      "name": "meta-skills",
+      "source": "./plugins/meta-skills",
+      "description": "Tools for building, discovering, and managing Claude skills and plugins. Includes recursive problem solving.",
+      "version": "0.1.0",
+      "author": { "name": "Nick Love" },
+      "category": "meta",
+      "keywords": ["skill-builder", "plugin-management", "problem-solving", "discovery"]
+    }
+  ]
+}

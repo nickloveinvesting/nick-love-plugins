@@ -1,0 +1,8 @@
+{
+  "name": "web-dev",
+  "version": "0.1.0",
+  "description": "Full-stack frontend development, landing page design and copy, browser automation with Playwright, and UI auditing.",
+  "author": {
+    "name": "Nick Love"
+  }
+}
